@@ -26,7 +26,7 @@ The project demonstrates that the choice of **scheduling algorithm** and **memor
 
 ## 🛠️ Tech Stack
 
-- Language: C++  
+- Language: Python  
 - Interface: Command-Line (CLI)  
 - Topics: Scheduling, Memory Management, Operating Systems
 
